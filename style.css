@@ -4,9 +4,6 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
-header{
-    position:stati;
-}
 .left{
     display: inline-block;
     /*border: 2px solid red;*/
